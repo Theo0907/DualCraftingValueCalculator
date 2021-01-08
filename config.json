@@ -3062,6 +3062,213 @@
         ]
     },
     {
+        "Name" : "WingXS",
+        "Amount" : 1,
+        "Sell Value" : 230,
+        "Ingredients" : [
+            {
+                "Name" : "BasicScrew",
+                "Amount" : 1.0
+            },
+            {
+                "Name" : "BasicHydraulics",
+                "Amount" : 1.0
+            },
+            {
+                "Name" : "BasicMobilePanelXS",
+                "Amount" : 1.0
+            },
+            {
+                "Name" : "BasicStandardFrameXS",
+                "Amount" : 1.0
+            }
+        ]
+    },
+    {
+        "Name" : "WingS",
+        "Amount" : 1,
+        "Sell Value" : 230,
+        "Ingredients" : [
+            {
+                "Name" : "BasicScrew",
+                "Amount" : 6.0
+            },
+            {
+                "Name" : "BasicHydraulics",
+                "Amount" : 5.0
+            },
+            {
+                "Name" : "BasicMobilePanelS",
+                "Amount" : 1.0
+            },
+            {
+                "Name" : "BasicStandardFrameS",
+                "Amount" : 1.0
+            }
+        ]
+    },
+    {
+        "Name" : "WingM",
+        "Amount" : 1,
+        "Sell Value" : 230,
+        "Ingredients" : [
+            {
+                "Name" : "BasicScrew",
+                "Amount" : 36.0
+            },
+            {
+                "Name" : "BasicHydraulics",
+                "Amount" : 25.0
+            },
+            {
+                "Name" : "BasicMobilePanelM",
+                "Amount" : 1.0
+            },
+            {
+                "Name" : "BasicStandardFrameM",
+                "Amount" : 1.0
+            }
+        ]
+    },
+    {
+        "Name" : "AileronXS",
+        "Amount" : 1,
+        "Sell Value" : 230,
+        "Ingredients" : [
+            {
+                "Name" : "BasicScrew",
+                "Amount" : 2.0
+            },
+            {
+                "Name" : "BasicHydraulics",
+                "Amount" : 2.0
+            },
+            {
+                "Name" : "BasicMobilePanelXS",
+                "Amount" : 2.0
+            },
+            {
+                "Name" : "BasicStandardFrameXS",
+                "Amount" : 2.0
+            }
+        ]
+    },
+    {
+        "Name" : "AileronS",
+        "Amount" : 1,
+        "Sell Value" : 230,
+        "Ingredients" : [
+            {
+                "Name" : "BasicScrew",
+                "Amount" : 12.0
+            },
+            {
+                "Name" : "BasicHydraulics",
+                "Amount" : 10.0
+            },
+            {
+                "Name" : "BasicMobilePanelS",
+                "Amount" : 2.0
+            },
+            {
+                "Name" : "BasicStandardFrameS",
+                "Amount" : 2.0
+            }
+        ]
+    },
+    {
+        "Name" : "AileronM",
+        "Amount" : 1,
+        "Sell Value" : 230,
+        "Ingredients" : [
+            {
+                "Name" : "BasicScrew",
+                "Amount" : 72.0
+            },
+            {
+                "Name" : "BasicHydraulics",
+                "Amount" : 50.0
+            },
+            {
+                "Name" : "BasicMobilePanelM",
+                "Amount" : 2.0
+            },
+            {
+                "Name" : "BasicStandardFrameM",
+                "Amount" : 2.0
+            }
+        ]
+    },
+    {
+        "Name" : "CompactAileronXS",
+        "Amount" : 1,
+        "Sell Value" : 230,
+        "Ingredients" : [
+            {
+                "Name" : "BasicScrew",
+                "Amount" : 1.0
+            },
+            {
+                "Name" : "BasicHydraulics",
+                "Amount" : 1.0
+            },
+            {
+                "Name" : "BasicMobilePanelXS",
+                "Amount" : 1.0
+            },
+            {
+                "Name" : "BasicStandardFrameXS",
+                "Amount" : 1.0
+            }
+        ]
+    },
+    {
+        "Name" : "AileronS",
+        "Amount" : 1,
+        "Sell Value" : 230,
+        "Ingredients" : [
+            {
+                "Name" : "BasicScrew",
+                "Amount" : 6.0
+            },
+            {
+                "Name" : "BasicHydraulics",
+                "Amount" : 5.0
+            },
+            {
+                "Name" : "BasicMobilePanelS",
+                "Amount" : 1.0
+            },
+            {
+                "Name" : "BasicStandardFrameS",
+                "Amount" : 1.0
+            }
+        ]
+    },
+    {
+        "Name" : "AileronM",
+        "Amount" : 1,
+        "Sell Value" : 230,
+        "Ingredients" : [
+            {
+                "Name" : "BasicScrew",
+                "Amount" : 36.0
+            },
+            {
+                "Name" : "BasicHydraulics",
+                "Amount" : 25.0
+            },
+            {
+                "Name" : "BasicMobilePanelM",
+                "Amount" : 1.0
+            },
+            {
+                "Name" : "BasicStandardFrameM",
+                "Amount" : 1.0
+            }
+        ]
+    },
+    {
         "Name" : "ContainerL",
         "Amount" : 1.0,
         "Sell Value" : 158000.0,
