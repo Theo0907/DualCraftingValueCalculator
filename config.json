@@ -1102,6 +1102,213 @@
         ]
     },
     {
+        "Name" : "BasicAtmosphericEngineXS",
+        "Amount" : 1.0,
+        "Sell Value" : 600,
+        "Ingredients" : [
+            {
+                "Name" : "BasicScrew",
+                "Amount" : 1.0
+            },
+            {
+                "Name" : "BasicInjector",
+                "Amount" : 1.0
+            },
+            {
+                "Name" : "BasicCombustionChamberXS",
+                "Amount" : 1.0
+            },
+            {
+                "Name" : "BasicReinforcedFrameXS",
+                "Amount" : 1.0
+            }
+        ]
+    },
+    {
+        "Name" : "BasicAtmosphericEngineS",
+        "Amount" : 1.0,
+        "Sell Value" : 2700,
+        "Ingredients" : [
+            {
+                "Name" : "BasicScrew",
+                "Amount" : 6.0
+            },
+            {
+                "Name" : "BasicInjector",
+                "Amount" : 5.0
+            },
+            {
+                "Name" : "BasicCombustionChamberS",
+                "Amount" : 1.0
+            },
+            {
+                "Name" : "BasicReinforcedFrameS",
+                "Amount" : 1.0
+            }
+        ]
+    },
+    {
+        "Name" : "BasicAtmosphericEngineM",
+        "Amount" : 1.0,
+        "Sell Value" : 24500,
+        "Ingredients" : [
+            {
+                "Name" : "BasicScrew",
+                "Amount" : 36.0
+            },
+            {
+                "Name" : "BasicInjector",
+                "Amount" : 25.0
+            },
+            {
+                "Name" : "BasicCombustionChamberM",
+                "Amount" : 1.0
+            },
+            {
+                "Name" : "BasicReinforcedFrameM",
+                "Amount" : 1.0
+            }
+        ]
+    },
+    {
+        "Name" : "BasicAtmosphericEngineL",
+        "Amount" : 1.0,
+        "Sell Value" : 75000,
+        "Ingredients" : [
+            {
+                "Name" : "BasicScrew",
+                "Amount" : 216.0
+            },
+            {
+                "Name" : "BasicInjector",
+                "Amount" : 125.0
+            },
+            {
+                "Name" : "BasicCombustionChamberL",
+                "Amount" : 1.0
+            },
+            {
+                "Name" : "BasicReinforcedFrameL",
+                "Amount" : 1.0
+            }
+        ]
+    },
+    {
+        "Name" : "BasicSpaceEngineXS",
+        "Amount" : 1.0,
+        "Sell Value" : 900,
+        "Ingredients" : [
+            {
+                "Name" : "BasicScrew",
+                "Amount" : 1.0
+            },
+            {
+                "Name" : "BasicBurner",
+                "Amount" : 1.0
+            },
+            {
+                "Name" : "BasicIonicChamberXS",
+                "Amount" : 1.0
+            },
+            {
+                "Name" : "BasicReinforcedFrameXS",
+                "Amount" : 1.0
+            }
+        ]
+    },
+    {
+        "Name" : "BasicSpaceEngineS",
+        "Amount" : 1.0,
+        "Sell Value" : 4000,
+        "Ingredients" : [
+            {
+                "Name" : "BasicScrew",
+                "Amount" : 6.0
+            },
+            {
+                "Name" : "BasicBurner",
+                "Amount" : 5.0
+            },
+            {
+                "Name" : "BasicIonicChamberS",
+                "Amount" : 1.0
+            },
+            {
+                "Name" : "BasicReinforcedFrameS",
+                "Amount" : 1.0
+            }
+        ]
+    },
+    {
+        "Name" : "BasicSpaceEngineM",
+        "Amount" : 1.0,
+        "Sell Value" : 24000,
+        "Ingredients" : [
+            {
+                "Name" : "BasicScrew",
+                "Amount" : 36.0
+            },
+            {
+                "Name" : "BasicBurner",
+                "Amount" : 25.0
+            },
+            {
+                "Name" : "BasicIonicChamberM",
+                "Amount" : 1.0
+            },
+            {
+                "Name" : "BasicReinforcedFrameM",
+                "Amount" : 1.0
+            }
+        ]
+    },
+    {
+        "Name" : "BasicSpaceEngineL",
+        "Amount" : 1.0,
+        "Sell Value" : 92000,
+        "Ingredients" : [
+            {
+                "Name" : "BasicScrew",
+                "Amount" : 216.0
+            },
+            {
+                "Name" : "BasicBurner",
+                "Amount" : 125.0
+            },
+            {
+                "Name" : "BasicIonicChamberL",
+                "Amount" : 1.0
+            },
+            {
+                "Name" : "BasicReinforcedFrameL",
+                "Amount" : 1.0
+            }
+        ]
+    },
+    {
+        "Name" : "BasicSpaceEngineXL",
+        "Amount" : 1.0,
+        "Sell Value" : 600000,
+        "Ingredients" : [
+            {
+                "Name" : "BasicScrew",
+                "Amount" : 1296.0
+            },
+            {
+                "Name" : "BasicBurner",
+                "Amount" : 625.0
+            },
+            {
+                "Name" : "BasicIonicChamberXL",
+                "Amount" : 1.0
+            },
+            {
+                "Name" : "BasicReinforcedFrameXL",
+                "Amount" : 1.0
+            }
+        ]
+    },
+    {
         "Name" : "ContainerL",
         "Amount" : 1.0,
         "Sell Value" : 158000.0,
