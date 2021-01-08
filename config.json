@@ -1,0 +1,245 @@
+{"items":[
+    {
+        "Name" : "Hematite",
+        "Amount" : 1,
+        "Sell Value" : 22.0,
+        "Ingredients" : []
+    },
+    {
+        "Name" : "Bauxite",
+        "Amount" : 1,
+        "Sell Value" : 22.0,
+        "Ingredients" : []
+    },
+    {
+        "Name" : "Coal",
+        "Amount" : 1,
+        "Sell Value" : 22.5,
+        "Ingredients" : []
+    },
+    {
+        "Name" : "Quartz",
+        "Amount" : 1,
+        "Sell Value" : 20.0,
+        "Ingredients" : []
+    },
+    {
+        "Name" : "PureIron",
+        "Amount" : 465.75,
+        "Sell Value" : -1,
+        "Ingredients" : [
+            {
+                "Name" : "Hematite",
+                "Amount" : 497.25
+            }
+        ]
+    },
+    {
+        "Name" : "PureAluminium",
+        "Amount" : 465.75,
+        "Sell Value" : -1,
+        "Ingredients" : [
+            {
+                "Name" : "Bauxite",
+                "Amount" : 497.25
+            }
+        ]
+    },
+    {
+        "Name" : "PureCarbon",
+        "Amount" : 465.75,
+        "Sell Value" : -1,
+        "Ingredients" : [
+            {
+                "Name" : "Coal",
+                "Amount" : 497.25
+            }
+        ]
+    },
+    {
+        "Name" : "PureSilicon",
+        "Amount" : 465.75,
+        "Sell Value" : -1,
+        "Ingredients" : [
+            {
+                "Name" : "Quartz",
+                "Amount" : 497.25
+            }
+        ]
+    },
+    {
+        "Name" : "Al-FeAlloy",
+        "Amount" : 81.75,
+        "Sell Value" : -1,
+        "Ingredients" : [
+            {
+                "Name" : "PureAluminium",
+                "Amount" : 85.0
+            },
+            {
+                "Name" : "PureIron",
+                "Amount" : 42.5
+            }
+        ]
+    },
+    {
+        "Name" : "Steel",
+        "Amount" : 81.75,
+        "Sell Value" : -1,
+        "Ingredients" : [
+            {
+                "Name" : "PureIron",
+                "Amount" : 88
+            },
+            {
+                "Name" : "PureCarbon",
+                "Amount" : 44
+            }
+        ]
+    },
+    {
+        "Name" : "Silumin",
+        "Amount" : 81.75,
+        "Sell Value" : -1,
+        "Ingredients" : [
+            {
+                "Name" : "PureAluminium",
+                "Amount" : 85.0
+            },
+            {
+                "Name" : "PureSilicon",
+                "Amount" : 42.5
+            }
+        ]
+    },
+    {
+        "Name" : "Glass",
+        "Amount" : 81.75,
+        "Sell Value" : -1,
+        "Ingredients" : [
+            {
+                "Name" : "PureSilicon",
+                "Amount" : 85.0
+            }
+        ]
+    },
+    {
+        "Name" : "PolycarbonatePlastic",
+        "Amount" : 81.75,
+        "Sell Value" : -1,
+        "Ingredients" : [
+            {
+                "Name" : "PureCarbon",
+                "Amount" : 88.0
+            }
+        ]
+    },
+    {
+        "Name" : "BasicStandardFrameL",
+        "Amount" : 1.0,
+        "Sell Value" : -1,
+        "Ingredients" : [
+            {
+                "Name" : "Silumin",
+                "Amount" : 515.0
+            }
+        ]
+    },
+    {
+        "Name" : "BasicReinforcedFrameL",
+        "Amount" : 1.0,
+        "Sell Value" : -1,
+        "Ingredients" : [
+            {
+                "Name" : "Steel",
+                "Amount" : 515.0
+            }
+        ]
+    },
+    {
+        "Name" : "BasicPipe",
+        "Amount" : 15.0,
+        "Sell Value" : -1,
+        "Ingredients" : [
+            {
+                "Name" : "Silumin",
+                "Amount" : 10.0
+            }
+        ]
+    },
+    {
+        "Name" : "BasicScrew",
+        "Amount" : 15.0,
+        "Sell Value" : -1,
+        "Ingredients" : [
+            {
+                "Name" : "Steel",
+                "Amount" : 10.0
+            }
+        ]
+    },
+    {
+        "Name" : "BasicComponent",
+        "Amount" : 15.0,
+        "Sell Value" : -1,
+        "Ingredients" : [
+            {
+                "Name" : "Al-FeAlloy",
+                "Amount" : 10.0
+            }
+        ]
+    },
+    {
+        "Name" : "BasicHydraulics",
+        "Amount" : 1.0,
+        "Sell Value" : -1,
+        "Ingredients" : [
+            {
+                "Name" : "BasicPipe",
+                "Amount" : 4.0
+            },
+            {
+                "Name" : "Steel",
+                "Amount" : 6.0
+            }
+        ]
+    },
+    {
+        "Name" : "ContainerL",
+        "Amount" : 1.0,
+        "Sell Value" : 158000.0,
+        "Ingredients" : [
+            {
+                "Name" : "BasicReinforcedFrameL",
+                "Amount" : 2.0
+            },
+            {
+                "Name" : "BasicHydraulics",
+                "Amount" : 250
+            },
+            {
+                "Name" : "BasicComponent",
+                "Amount" : 432
+            }
+        ]
+    },
+    {
+        "Name" : "XLAmmoContainerL",
+        "Amount" : 1.0,
+        "Sell Value" : 333000.0,
+        "Ingredients" : [
+            {
+                "Name" : "BasicStandardFrameL",
+                "Amount" : 2.0
+            },
+            {
+                "Name" : "BasicHydraulics",
+                "Amount" : 250
+            },
+            {
+                "Name" : "BasicScrew",
+                "Amount" : 432
+            }
+        ]
+    }
+]}
