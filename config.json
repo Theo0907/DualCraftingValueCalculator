@@ -1309,6 +1309,322 @@
         ]
     },
     {
+        "Name" : "Chromite",
+        "Amount" : 1,
+        "Sell Value" : 68.0,
+        "Ingredients" : []
+    },
+    {
+        "Name" : "Limestone",
+        "Amount" : 1,
+        "Sell Value" : 60.0,
+        "Ingredients" : []
+    },
+    {
+        "Name" : "Malachite",
+        "Amount" : 1,
+        "Sell Value" : 60.0,
+        "Ingredients" : []
+    },
+    {
+        "Name" : "Natron",
+        "Amount" : 1,
+        "Sell Value" : 59.0,
+        "Ingredients" : []
+    },
+    {
+        "Name" : "PureChromium",
+        "Amount" : 51.75,
+        "Sell Value" : -1,
+        "Ingredients" : [
+            {
+                "Name" : "Chromite",
+                "Amount" : 55.25
+            }
+        ]
+    },
+    {
+        "Name" : "PureCalcium",
+        "Amount" : 51.75,
+        "Sell Value" : -1,
+        "Ingredients" : [
+            {
+                "Name" : "Limestone",
+                "Amount" : 55.25
+            }
+        ]
+    },
+    {
+        "Name" : "PureCopper",
+        "Amount" : 51.75,
+        "Sell Value" : -1,
+        "Ingredients" : [
+            {
+                "Name" : "Malachite",
+                "Amount" : 55.25
+            }
+        ]
+    },
+    {
+        "Name" : "PureSodium",
+        "Amount" : 51.75,
+        "Sell Value" : -1,
+        "Ingredients" : [
+            {
+                "Name" : "Natron",
+                "Amount" : 55.25
+            }
+        ]
+    },
+    {
+        "Name" : "CalciumReinforcedCopper",
+        "Amount" : 86.25,
+        "Sell Value" : -1,
+        "Ingredients" : [
+            {
+                "Name" : "PureCopper",
+                "Amount" : 85.0
+            },
+            {
+                "Name" : "PureCalcium",
+                "Amount" : 42.5
+            }
+        ]
+    },
+    {
+        "Name" : "StainlessSteel",
+        "Amount" : 86.25,
+        "Sell Value" : -1,
+        "Ingredients" : [
+            {
+                "Name" : "PureChromium",
+                "Amount" : 85
+            },
+            {
+                "Name" : "PureIron",
+                "Amount" : 42.5
+            },
+            {
+                "Name" : "PureCarbon",
+                "Amount" : 42.5
+            }
+        ]
+    },
+    {
+        "Name" : "Duralumin",
+        "Amount" : 86.25,
+        "Sell Value" : -1,
+        "Ingredients" : [
+            {
+                "Name" : "PureAluminium",
+                "Amount" : 85.0
+            },
+            {
+                "Name" : "PureAluminium",
+                "Amount" : 42.5
+            }
+        ]
+    },
+    {
+        "Name" : "AdvancedGlass",
+        "Amount" : 86.25,
+        "Sell Value" : -1,
+        "Ingredients" : [
+            {
+                "Name" : "PureSodium",
+                "Amount" : 85.0
+            },
+            {
+                "Name" : "PureCalcium",
+                "Amount" : 85.0
+            },
+            {
+                "Name" : "PureSilicon",
+                "Amount" : 42.5
+            }
+        ]
+    },
+    {
+        "Name" : "PolycarbonatePlastic",
+        "Amount" : 86.25,
+        "Sell Value" : -1,
+        "Ingredients" : [
+            {
+                "Name" : "PureCarbon",
+                "Amount" : 42.5
+            },
+            {
+                "Name" : "PureCalcium",
+                "Amount" : 85.0
+            }
+
+        ]
+    },
+    {
+        "Name" : "NitronFuel",
+        "Amount" : 125,
+        "Sell Value" : -1,
+        "Ingredients" : [
+            {
+                "Name" : "PureCarbon",
+                "Amount" : 15
+            },
+            {
+                "Name" : "PureSilicon",
+                "Amount" : 15
+            }
+
+        ]
+    },
+    {
+        "Name" : "XeronFuel",
+        "Amount" : 125,
+        "Sell Value" : -1,
+        "Ingredients" : [
+            {
+                "Name" : "PureChromium",
+                "Amount" : 7.5
+            },
+            {
+                "Name" : "PureSodium",
+                "Amount" : 7.5
+            }
+
+        ]
+    },
+    {
+        "Name" : "Xergon-X1Fuel",
+        "Amount" : 125,
+        "Sell Value" : -1,
+        "Ingredients" : [
+            {
+                "Name" : "PureSodium",
+                "Amount" : 30
+            }
+
+        ]
+    },
+    {
+        "Name" : "Xergon-X2Fuel",
+        "Amount" : 125,
+        "Sell Value" : -1,
+        "Ingredients" : [
+            {
+                "Name" : "PureCalcium",
+                "Amount" : 30
+            }
+
+        ]
+    },
+    {
+        "Name" : "Xergon-X3Fuel",
+        "Amount" : 125,
+        "Sell Value" : -1,
+        "Ingredients" : [
+            {
+                "Name" : "PureChromium",
+                "Amount" : 30
+            }
+
+        ]
+    },
+    {
+        "Name" : "Xergon-X4Fuel",
+        "Amount" : 125,
+        "Sell Value" : -1,
+        "Ingredients" : [
+            {
+                "Name" : "PureCopper",
+                "Amount" : 30
+            }
+
+        ]
+    },
+    {
+        "Name" : "AdjustorXS",
+        "Amount" : 1,
+        "Sell Value" : 230,
+        "Ingredients" : [
+            {
+                "Name" : "BasicPipe",
+                "Amount" : 1.0
+            },
+            {
+                "Name" : "BasicInjector",
+                "Amount" : 1.0
+            }
+        ]
+    },
+    {
+        "Name" : "AdjustorS",
+        "Amount" : 1,
+        "Sell Value" : 525,
+        "Ingredients" : [
+            {
+                "Name" : "BasicPipe",
+                "Amount" : 1.0
+            },
+            {
+                "Name" : "BasicInjector",
+                "Amount" : 1.0
+            },
+            {
+                "Name" : "BasicGasCylinderXS",
+                "Amount" : 1.0
+            },
+            {
+                "Name" : "BasicStandardFrameXS",
+                "Amount" : 1.0
+            }
+        ]
+    },
+    {
+        "Name" : "AdjustorM",
+        "Amount" : 1,
+        "Sell Value" : 3000,
+        "Ingredients" : [
+            {
+                "Name" : "BasicPipe",
+                "Amount" : 6.0
+            },
+            {
+                "Name" : "BasicInjector",
+                "Amount" : 5.0
+            },
+            {
+                "Name" : "BasicGasCylinderS",
+                "Amount" : 1.0
+            },
+            {
+                "Name" : "BasicStandardFrameS",
+                "Amount" : 1.0
+            }
+        ]
+    },
+    {
+        "Name" : "AdjustorL",
+        "Amount" : 1,
+        "Sell Value" : 12200,
+        "Ingredients" : [
+            {
+                "Name" : "BasicPipe",
+                "Amount" : 36.0
+            },
+            {
+                "Name" : "BasicInjector",
+                "Amount" : 25.0
+            },
+            {
+                "Name" : "BasicGasCylinderM",
+                "Amount" : 1.0
+            },
+            {
+                "Name" : "BasicStandardFrameM",
+                "Amount" : 1.0
+            }
+        ]
+    },
+    {
         "Name" : "ContainerL",
         "Amount" : 1.0,
         "Sell Value" : 158000.0,
