@@ -32,7 +32,7 @@ bool ItemsHandler::LoadJson()
 			auto it = items.find(ingredient["Name"]);
 			if (it == items.end())
 			{
-				std::cout << "Could not find item " << ingredient["Name"] << " in current dictionnary." << std::endl;
+				std::cout << "Could not find item " << ingredient["Name"] << " in current dictionnary. (Adding item " << value["Name"] << ")" << std::endl;
 				continue;
 			}
 			item.craft.ingredients.emplace_back(it->second, ingredient["Amount"]);
