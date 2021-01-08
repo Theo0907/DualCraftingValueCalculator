@@ -3369,6 +3369,168 @@
         ]
     },
     {
+        "Name" : "AtmosphericRadarS",
+        "Amount" : 1.0,
+        "Sell Value" : 14000,
+        "Ingredients" : [
+            {
+                "Name" : "BasicLED",
+                "Amount" : 3.0
+            },
+            {
+                "Name" : "UncommonLED",
+                "Amount" : 3.0
+            },
+            {
+                "Name" : "UncommonMagnet",
+                "Amount" : 5.0
+            },
+            {
+                "Name" : "UncommonAntennaS",
+                "Amount" : 1.0
+            },
+            {
+                "Name" : "UncommonStandardFrameS",
+                "Amount" : 1.0
+            }
+        ]
+    },
+    {
+        "Name" : "AtmosphericRadarM",
+        "Amount" : 1.0,
+        "Sell Value" : 150000,
+        "Ingredients" : [
+            {
+                "Name" : "BasicLED",
+                "Amount" : 18.0
+            },
+            {
+                "Name" : "UncommonLED",
+                "Amount" : 18.0
+            },
+            {
+                "Name" : "UncommonMagnet",
+                "Amount" : 25.0
+            },
+            {
+                "Name" : "UncommonAntennaM",
+                "Amount" : 1.0
+            },
+            {
+                "Name" : "UncommonStandardFrameM",
+                "Amount" : 1.0
+            }
+        ]
+    },
+    {
+        "Name" : "AtmosphericRadarL",
+        "Amount" : 1.0,
+        "Sell Value" : 450000,
+        "Ingredients" : [
+            {
+                "Name" : "BasicLED",
+                "Amount" : 108.0
+            },
+            {
+                "Name" : "UncommonLED",
+                "Amount" : 108.0
+            },
+            {
+                "Name" : "UncommonMagnet",
+                "Amount" : 125.0
+            },
+            {
+                "Name" : "UncommonAntennaL",
+                "Amount" : 1.0
+            },
+            {
+                "Name" : "UncommonStandardFrameL",
+                "Amount" : 1.0
+            }
+        ]
+    },
+    {
+        "Name" : "SpaceRadarS",
+        "Amount" : 1.0,
+        "Sell Value" : 20000,
+        "Ingredients" : [
+            {
+                "Name" : "BasicLED",
+                "Amount" : 3.0
+            },
+            {
+                "Name" : "UncommonLED",
+                "Amount" : 3.0
+            },
+            {
+                "Name" : "UncommonProcessor",
+                "Amount" : 5.0
+            },
+            {
+                "Name" : "UncommonAntennaS",
+                "Amount" : 1.0
+            },
+            {
+                "Name" : "UncommonStandardFrameS",
+                "Amount" : 1.0
+            }
+        ]
+    },
+    {
+        "Name" : "SpaceRadarM",
+        "Amount" : 1.0,
+        "Sell Value" : 82000,
+        "Ingredients" : [
+            {
+                "Name" : "BasicLED",
+                "Amount" : 18.0
+            },
+            {
+                "Name" : "UncommonLED",
+                "Amount" : 18.0
+            },
+            {
+                "Name" : "UncommonProcessor",
+                "Amount" : 25.0
+            },
+            {
+                "Name" : "UncommonAntennaM",
+                "Amount" : 1.0
+            },
+            {
+                "Name" : "UncommonStandardFrameM",
+                "Amount" : 1.0
+            }
+        ]
+    },
+    {
+        "Name" : "SpaceRadarL",
+        "Amount" : 1.0,
+        "Sell Value" : 330000,
+        "Ingredients" : [
+            {
+                "Name" : "BasicLED",
+                "Amount" : 108.0
+            },
+            {
+                "Name" : "UncommonLED",
+                "Amount" : 108.0
+            },
+            {
+                "Name" : "UncommonProcessor",
+                "Amount" : 125.0
+            },
+            {
+                "Name" : "UncommonAntennaL",
+                "Amount" : 1.0
+            },
+            {
+                "Name" : "UncommonStandardFrameL",
+                "Amount" : 1.0
+            }
+        ]
+    },
+    {
         "Name" : "ContainerL",
         "Amount" : 1.0,
         "Sell Value" : 158000.0,
