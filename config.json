@@ -3269,6 +3269,106 @@
         ]
     },
     {
+        "Name" : "StaticCoreUnitXS",
+        "Amount" : 1,
+        "Sell Value" : 1000,
+        "Ingredients" : [
+            {
+                "Name" : "BasicComponent",
+                "Amount" : 1.0
+            },
+            {
+                "Name" : "BasicPowerSystem",
+                "Amount" : 1.0
+            },
+            {
+                "Name" : "BasicCoreSystemXS",
+                "Amount" : 1.0
+            },
+            {
+                "Name" : "BasicStandardFrameXS",
+                "Amount" : 1.0
+            }
+        ]
+    },
+    {
+        "Name" : "StaticCoreUnitS",
+        "Amount" : 1,
+        "Sell Value" : 5900,
+        "Ingredients" : [
+            {
+                "Name" : "BasicComponent",
+                "Amount" : 6.0
+            },
+            {
+                "Name" : "BasicPowerSystem",
+                "Amount" : 5.0
+            },
+            {
+                "Name" : "BasicCoreSystemS",
+                "Amount" : 1.0
+            },
+            {
+                "Name" : "BasicStandardFrameS",
+                "Amount" : 1.0
+            }
+        ]
+    },
+    {
+        "Name" : "StaticCoreUnitM",
+        "Amount" : 1,
+        "Sell Value" : 70000,
+        "Ingredients" : [
+            {
+                "Name" : "BasicComponent",
+                "Amount" : 18.0
+            },
+            {
+                "Name" : "UncommonComponent",
+                "Amount" : 18.0
+            },
+            {
+                "Name" : "UncommonPowerSystem",
+                "Amount" : 25.0
+            },
+            {
+                "Name" : "UncommonCoreSystemM",
+                "Amount" : 1.0
+            },
+            {
+                "Name" : "UncommonStandardFrameM",
+                "Amount" : 1.0
+            }
+        ]
+    },
+    {
+        "Name" : "StaticCoreUnitL",
+        "Amount" : 1,
+        "Sell Value" : 248000,
+        "Ingredients" : [
+            {
+                "Name" : "BasicComponent",
+                "Amount" : 108.0
+            },
+            {
+                "Name" : "UncommonComponent",
+                "Amount" : 108.0
+            },
+            {
+                "Name" : "UncommonPowerSystem",
+                "Amount" : 125.0
+            },
+            {
+                "Name" : "UncommonCoreSystemL",
+                "Amount" : 1.0
+            },
+            {
+                "Name" : "UncommonStandardFrameL",
+                "Amount" : 1.0
+            }
+        ]
+    },
+    {
         "Name" : "ContainerL",
         "Amount" : 1.0,
         "Sell Value" : 158000.0,
