@@ -537,7 +537,7 @@
         "Sell Value" : -1,
         "Ingredients" : [
             {
-                "Name" : "Silumn",
+                "Name" : "Silumin",
                 "Amount" : 1.0
             },
             {
@@ -552,7 +552,7 @@
         "Sell Value" : -1,
         "Ingredients" : [
             {
-                "Name" : "Silumn",
+                "Name" : "Silumin",
                 "Amount" : 7.0
             },
             {
@@ -567,7 +567,7 @@
         "Sell Value" : -1,
         "Ingredients" : [
             {
-                "Name" : "Silumn",
+                "Name" : "Silumin",
                 "Amount" : 49.0
             },
             {
@@ -582,7 +582,7 @@
         "Sell Value" : -1,
         "Ingredients" : [
             {
-                "Name" : "Silumn",
+                "Name" : "Silumin",
                 "Amount" : 343.0
             },
             {
@@ -597,7 +597,7 @@
         "Sell Value" : -1,
         "Ingredients" : [
             {
-                "Name" : "Silumn",
+                "Name" : "Silumin",
                 "Amount" : 2401.0
             },
             {
@@ -916,7 +916,7 @@
                 "Amount" : 7.0
             },
             {
-                "Name" : "BasicLed",
+                "Name" : "BasicLED",
                 "Amount" : 5.0
             }
         ]
