@@ -1445,7 +1445,7 @@
         ]
     },
     {
-        "Name" : "PolycarbonatePlastic",
+        "Name" : "PolycalcitePlastic",
         "Amount" : 86.25,
         "Sell Value" : -1,
         "Ingredients" : [
@@ -1458,6 +1458,1443 @@
                 "Amount" : 85.0
             }
 
+        ]
+    },
+    {
+        "Name" : "UncommonComponent",
+        "Amount" : 15,
+        "Sell Value" : -1,
+        "Ingredients" : [
+            {
+                "Name" : "Al-FeAlloy",
+                "Amount" : 5.0
+            },
+            {
+                "Name" : "CalciumReinforcedCopper",
+                "Amount" : 5.0
+            }
+
+        ]
+    },
+    {
+        "Name" : "UncommonConnector",
+        "Amount" : 15,
+        "Sell Value" : -1,
+        "Ingredients" : [
+            {
+                "Name" : "Al-FeAlloy",
+                "Amount" : 5.0
+            },
+            {
+                "Name" : "CalciumReinforcedCopper",
+                "Amount" : 5.0
+            }
+
+        ]
+    },
+    {
+        "Name" : "UncommonFixation",
+        "Amount" : 15,
+        "Sell Value" : -1,
+        "Ingredients" : [
+            {
+                "Name" : "PolycarbonatePlastic",
+                "Amount" : 5.0
+            },
+            {
+                "Name" : "PolycalcitePlastic",
+                "Amount" : 5.0
+            }
+
+        ]
+    },
+    {
+        "Name" : "UncommonLED",
+        "Amount" : 15,
+        "Sell Value" : -1,
+        "Ingredients" : [
+            {
+                "Name" : "Glass",
+                "Amount" : 5.0
+            },
+            {
+                "Name" : "AdvancedGlass",
+                "Amount" : 5.0
+            }
+
+        ]
+    },
+    {
+        "Name" : "UncommonPipe",
+        "Amount" : 15,
+        "Sell Value" : -1,
+        "Ingredients" : [
+            {
+                "Name" : "Silumin",
+                "Amount" : 5.0
+            },
+            {
+                "Name" : "Duralumin",
+                "Amount" : 5.0
+            }
+
+        ]
+    },
+    {
+        "Name" : "UncommonScrew",
+        "Amount" : 15,
+        "Sell Value" : -1,
+        "Ingredients" : [
+            {
+                "Name" : "Steel",
+                "Amount" : 5.0
+            },
+            {
+                "Name" : "StainlessSteel",
+                "Amount" : 5.0
+            }
+
+        ]
+    },
+    {
+        "Name" : "UncommonCasingXS",
+        "Amount" : 1,
+        "Sell Value" : -1,
+        "Ingredients" : [
+            {
+                "Name" : "PolycarbonatePlastic",
+                "Amount" : 1.0
+            },
+            {
+                "Name" : "PolycalcitePlastic",
+                "Amount" : 1.0
+            }
+
+        ]
+    },
+    {
+        "Name" : "UncommonCasingS",
+        "Amount" : 1,
+        "Sell Value" : -1,
+        "Ingredients" : [
+            {
+                "Name" : "PolycarbonatePlastic",
+                "Amount" : 4.0
+            },
+            {
+                "Name" : "PolycalcitePlastic",
+                "Amount" : 7.0
+            }
+
+        ]
+    },
+    {
+        "Name" : "UncommonCasingM",
+        "Amount" : 1,
+        "Sell Value" : -1,
+        "Ingredients" : [
+            {
+                "Name" : "PolycarbonatePlastic",
+                "Amount" : 25.0
+            },
+            {
+                "Name" : "PolycalcitePlastic",
+                "Amount" : 49.0
+            }
+
+        ]
+    },
+    {
+        "Name" : "UncommonCasingXL",
+        "Amount" : 1,
+        "Sell Value" : -1,
+        "Ingredients" : [
+            {
+                "Name" : "PolycarbonatePlastic",
+                "Amount" : 1201.0
+            },
+            {
+                "Name" : "PolycalcitePlastic",
+                "Amount" : 2401.0
+            }
+
+        ]
+    },
+    {
+        "Name" : "UncommonReinforcedFrameXS",
+        "Amount" : 1,
+        "Sell Value" : -1,
+        "Ingredients" : [
+            {
+                "Name" : "Steel",
+                "Amount" : 1.0
+            },
+            {
+                "Name" : "StainlessSteel",
+                "Amount" : 1.0
+            }
+
+        ]
+    },
+    {
+        "Name" : "UncommonReinforcedFrameS",
+        "Amount" : 1,
+        "Sell Value" : -1,
+        "Ingredients" : [
+            {
+                "Name" : "Steel",
+                "Amount" : 4.0
+            },
+            {
+                "Name" : "StainlessSteel",
+                "Amount" : 7.0
+            }
+
+        ]
+    },
+    {
+        "Name" : "UncommonReinforcedFrameM",
+        "Amount" : 1,
+        "Sell Value" : -1,
+        "Ingredients" : [
+            {
+                "Name" : "Steel",
+                "Amount" : 25.0
+            },
+            {
+                "Name" : "StainlessSteel",
+                "Amount" : 49.0
+            }
+
+        ]
+    },
+    {
+        "Name" : "UncommonReinforcedFrameL",
+        "Amount" : 1,
+        "Sell Value" : -1,
+        "Ingredients" : [
+            {
+                "Name" : "Steel",
+                "Amount" : 172.0
+            },
+            {
+                "Name" : "StainlessSteel",
+                "Amount" : 343.0
+            }
+
+        ]
+    },
+    {
+        "Name" : "UncommonReinforcedFrameXL",
+        "Amount" : 1,
+        "Sell Value" : -1,
+        "Ingredients" : [
+            {
+                "Name" : "Steel",
+                "Amount" : 1201.0
+            },
+            {
+                "Name" : "StainlessSteel",
+                "Amount" : 2401.0
+            }
+        ]
+    },
+    {
+        "Name" : "UncommonStandardFrameXS",
+        "Amount" : 1,
+        "Sell Value" : -1,
+        "Ingredients" : [
+            {
+                "Name" : "Silumin",
+                "Amount" : 1.0
+            },
+            {
+                "Name" : "Duralumin",
+                "Amount" : 1.0
+            }
+        ]
+    },
+    {
+        "Name" : "UncommonStandardFrameS",
+        "Amount" : 1,
+        "Sell Value" : -1,
+        "Ingredients" : [
+            {
+                "Name" : "Silumin",
+                "Amount" : 4.0
+            },
+            {
+                "Name" : "Duralumin",
+                "Amount" : 7.0
+            }
+        ]
+    },
+    {
+        "Name" : "UncommonStandardFrameM",
+        "Amount" : 1,
+        "Sell Value" : -1,
+        "Ingredients" : [
+            {
+                "Name" : "Silumin",
+                "Amount" : 25.0
+            },
+            {
+                "Name" : "Duralumin",
+                "Amount" : 49.0
+            }
+        ]
+    },
+    {
+        "Name" : "UncommonStandardFrameL",
+        "Amount" : 1,
+        "Sell Value" : -1,
+        "Ingredients" : [
+            {
+                "Name" : "Silumin",
+                "Amount" : 172.0
+            },
+            {
+                "Name" : "Duralumin",
+                "Amount" : 343.0
+            }
+        ]
+    },
+    {
+        "Name" : "UncommonAnti-MatterCapsule",
+        "Amount" : 1,
+        "Sell Value" : -1,
+        "Ingredients" : [
+            {
+                "Name" : "Glass",
+                "Amount" : 2.0
+            },
+            {
+                "Name" : "AdvancedGlass",
+                "Amount" : 4.0
+            },
+            {
+                "Name" : "BasicConnector",
+                "Amount" : 4.0
+            }
+        ]
+    },
+    {
+        "Name" : "UncommonBurner",
+        "Amount" : 1,
+        "Sell Value" : -1,
+        "Ingredients" : [
+            {
+                "Name" : "Silumin",
+                "Amount" : 2.0
+            },
+            {
+                "Name" : "Duralumin",
+                "Amount" : 4.0
+            },
+            {
+                "Name" : "BasicScrew",
+                "Amount" : 4.0
+            }
+        ]
+    },
+    {
+        "Name" : "UncommonElectronics",
+        "Amount" : 1,
+        "Sell Value" : -1,
+        "Ingredients" : [
+            {
+                "Name" : "PolycarbonatePlastic",
+                "Amount" : 2.0
+            },
+            {
+                "Name" : "PolycalcitePlastic",
+                "Amount" : 4.0
+            },
+            {
+                "Name" : "BasicComponent",
+                "Amount" : 4.0
+            }
+        ]
+    },
+    {
+        "Name" : "UncommonExplosiveModule",
+        "Amount" : 1,
+        "Sell Value" : -1,
+        "Ingredients" : [
+            {
+                "Name" : "PolycarbonatePlastic",
+                "Amount" : 2.0
+            },
+            {
+                "Name" : "PolycalcitePlastic",
+                "Amount" : 4.0
+            },
+            {
+                "Name" : "BasicConnector",
+                "Amount" : 4.0
+            }
+        ]
+    },
+    {
+        "Name" : "UncommonHydraulics",
+        "Amount" : 1,
+        "Sell Value" : -1,
+        "Ingredients" : [
+            {
+                "Name" : "Steel",
+                "Amount" : 2.0
+            },
+            {
+                "Name" : "StainlessSteel",
+                "Amount" : 4.0
+            },
+            {
+                "Name" : "BasicPipe",
+                "Amount" : 4.0
+            }
+        ]
+    },
+    {
+        "Name" : "UncommonInjector",
+        "Amount" : 1,
+        "Sell Value" : -1,
+        "Ingredients" : [
+            {
+                "Name" : "PolycarbonatePlastic",
+                "Amount" : 2.0
+            },
+            {
+                "Name" : "PolycalcitePlastic",
+                "Amount" : 4.0
+            },
+            {
+                "Name" : "BasicScrew",
+                "Amount" : 4.0
+            }
+        ]
+    },
+    {
+        "Name" : "UncommonMagnet",
+        "Amount" : 1,
+        "Sell Value" : -1,
+        "Ingredients" : [
+            {
+                "Name" : "Steel",
+                "Amount" : 2.0
+            },
+            {
+                "Name" : "StainlessSteel",
+                "Amount" : 4.0
+            },
+            {
+                "Name" : "BasicConnector",
+                "Amount" : 4.0
+            }
+        ]
+    },
+    {
+        "Name" : "UncommonOptics",
+        "Amount" : 1,
+        "Sell Value" : -1,
+        "Ingredients" : [
+            {
+                "Name" : "Glass",
+                "Amount" : 2.0
+            },
+            {
+                "Name" : "AdvancedGlass",
+                "Amount" : 4.0
+            },
+            {
+                "Name" : "BasicFixation",
+                "Amount" : 4.0
+            }
+        ]
+    },
+    {
+        "Name" : "UncommonPowerSystem",
+        "Amount" : 1,
+        "Sell Value" : -1,
+        "Ingredients" : [
+            {
+                "Name" : "Al-FeAlloy",
+                "Amount" : 2.0
+            },
+            {
+                "Name" : "CalciumReinforcedCopper",
+                "Amount" : 4.0
+            },
+            {
+                "Name" : "BasicConnector",
+                "Amount" : 4.0
+            }
+        ]
+    },
+    {
+        "Name" : "UncommonProcessor",
+        "Amount" : 1,
+        "Sell Value" : -1,
+        "Ingredients" : [
+            {
+                "Name" : "Al-FeAlloy",
+                "Amount" : 2.0
+            },
+            {
+                "Name" : "CalciumReinforcedCopper",
+                "Amount" : 4.0
+            },
+            {
+                "Name" : "BasicFixation",
+                "Amount" : 4.0
+            }
+        ]
+    },
+    {
+        "Name" : "UncommonQuantumCore",
+        "Amount" : 1,
+        "Sell Value" : -1,
+        "Ingredients" : [
+            {
+                "Name" : "PolycarbonatePlastic",
+                "Amount" : 2.0
+            },
+            {
+                "Name" : "PolycalcitePlastic",
+                "Amount" : 4.0
+            },
+            {
+                "Name" : "BasicLED",
+                "Amount" : 4.0
+            }
+        ]
+    },
+    {
+        "Name" : "UncommonSingularityContainer",
+        "Amount" : 1,
+        "Sell Value" : -1,
+        "Ingredients" : [
+            {
+                "Name" : "Steel",
+                "Amount" : 2.0
+            },
+            {
+                "Name" : "StainlessSteel",
+                "Amount" : 4.0
+            },
+            {
+                "Name" : "BasicComponent",
+                "Amount" : 4.0
+            }
+        ]
+    },
+    {
+        "Name" : "UncommonSolidWarhead",
+        "Amount" : 1,
+        "Sell Value" : -1,
+        "Ingredients" : [
+            {
+                "Name" : "Steel",
+                "Amount" : 2.0
+            },
+            {
+                "Name" : "StainlessSteel",
+                "Amount" : 4.0
+            },
+            {
+                "Name" : "BasicPipe",
+                "Amount" : 4.0
+            }
+        ]
+    },
+    {
+        "Name" : "UncommonAntennaXS",
+        "Amount" : 1,
+        "Sell Value" : -1,
+        "Ingredients" : [
+            {
+                "Name" : "BasicScrew",
+                "Amount" : 1.0
+            },
+            {
+                "Name" : "UncommonScrew",
+                "Amount" : 1.0
+            },
+            {
+                "Name" : "BasicPowerSystem",
+                "Amount" : 1.0
+            },
+            {
+                "Name" : "UncommonPowerSystem",
+                "Amount" : 1.0
+            },
+            {
+                "Name" : "CalciumReinforcedCopper",
+                "Amount" : 1.0
+            }
+        ]
+    },
+    {
+        "Name" : "UncommonAntennaS",
+        "Amount" : 1,
+        "Sell Value" : -1,
+        "Ingredients" : [
+            {
+                "Name" : "BasicScrew",
+                "Amount" : 2.0
+            },
+            {
+                "Name" : "UncommonScrew",
+                "Amount" : 4.0
+            },
+            {
+                "Name" : "BasicPowerSystem",
+                "Amount" : 2.0
+            },
+            {
+                "Name" : "UncommonPowerSystem",
+                "Amount" : 4.0
+            },
+            {
+                "Name" : "CalciumReinforcedCopper",
+                "Amount" : 7.0
+            }
+        ]
+    },
+    {
+        "Name" : "UncommonAntennaM",
+        "Amount" : 1,
+        "Sell Value" : -1,
+        "Ingredients" : [
+            {
+                "Name" : "BasicScrew",
+                "Amount" : 8.0
+            },
+            {
+                "Name" : "UncommonScrew",
+                "Amount" : 18.0
+            },
+            {
+                "Name" : "BasicPowerSystem",
+                "Amount" : 8.0
+            },
+            {
+                "Name" : "UncommonPowerSystem",
+                "Amount" : 18.0
+            },
+            {
+                "Name" : "CalciumReinforcedCopper",
+                "Amount" : 49.0
+            }
+        ]
+    },
+    {
+        "Name" : "UncommonAntennaL",
+        "Amount" : 1,
+        "Sell Value" : -1,
+        "Ingredients" : [
+            {
+                "Name" : "BasicScrew",
+                "Amount" : 38.0
+            },
+            {
+                "Name" : "UncommonScrew",
+                "Amount" : 88.0
+            },
+            {
+                "Name" : "BasicPowerSystem",
+                "Amount" : 38.0
+            },
+            {
+                "Name" : "UncommonPowerSystem",
+                "Amount" : 88.0
+            },
+            {
+                "Name" : "CalciumReinforcedCopper",
+                "Amount" : 343.0
+            }
+        ]
+    },
+    {
+        "Name" : "UncommonChemicalContainerM",
+        "Amount" : 1,
+        "Sell Value" : -1,
+        "Ingredients" : [
+            {
+                "Name" : "BasicScrew",
+                "Amount" : 8.0
+            },
+            {
+                "Name" : "UncommonScrew",
+                "Amount" : 18.0
+            },
+            {
+                "Name" : "BasicElectronics",
+                "Amount" : 8.0
+            },
+            {
+                "Name" : "UncommonElectronics",
+                "Amount" : 18.0
+            },
+            {
+                "Name" : "Duralumin",
+                "Amount" : 49.0
+            }
+        ]
+    },
+    {
+        "Name" : "UncommonCombustionChamberXS",
+        "Amount" : 1,
+        "Sell Value" : -1,
+        "Ingredients" : [
+            {
+                "Name" : "BasicPipe",
+                "Amount" : 1.0
+            },
+            {
+                "Name" : "UncommonPipe",
+                "Amount" : 1.0
+            },
+            {
+                "Name" : "BasicBurner",
+                "Amount" : 1.0
+            },
+            {
+                "Name" : "UncommonBurner",
+                "Amount" : 1.0
+            },
+            {
+                "Name" : "StainlessSteel",
+                "Amount" : 1.0
+            }
+        ]
+    },
+    {
+        "Name" : "UncommonCombustionChamberS",
+        "Amount" : 1,
+        "Sell Value" : -1,
+        "Ingredients" : [
+            {
+                "Name" : "BasicPipe",
+                "Amount" : 2.0
+            },
+            {
+                "Name" : "UncommonPipe",
+                "Amount" : 4.0
+            },
+            {
+                "Name" : "BasicBurner",
+                "Amount" : 2.0
+            },
+            {
+                "Name" : "UncommonBurner",
+                "Amount" : 4.0
+            },
+            {
+                "Name" : "StainlessSteel",
+                "Amount" : 7.0
+            }
+        ]
+    },
+    {
+        "Name" : "UncommonCombustionChamberM",
+        "Amount" : 1,
+        "Sell Value" : -1,
+        "Ingredients" : [
+            {
+                "Name" : "BasicPipe",
+                "Amount" : 8.0
+            },
+            {
+                "Name" : "UncommonPipe",
+                "Amount" : 18.0
+            },
+            {
+                "Name" : "BasicBurner",
+                "Amount" : 8.0
+            },
+            {
+                "Name" : "UncommonBurner",
+                "Amount" : 18.0
+            },
+            {
+                "Name" : "StainlessSteel",
+                "Amount" : 49.0
+            }
+        ]
+    },
+    {
+        "Name" : "UncommonCombustionChamberL",
+        "Amount" : 1,
+        "Sell Value" : -1,
+        "Ingredients" : [
+            {
+                "Name" : "BasicPipe",
+                "Amount" : 38.0
+            },
+            {
+                "Name" : "UncommonPipe",
+                "Amount" : 88.0
+            },
+            {
+                "Name" : "BasicBurner",
+                "Amount" : 38.0
+            },
+            {
+                "Name" : "UncommonBurner",
+                "Amount" : 88.0
+            },
+            {
+                "Name" : "StainlessSteel",
+                "Amount" : 343.0
+            }
+        ]
+    },
+    {
+        "Name" : "UncommonCoreSystemS",
+        "Amount" : 1,
+        "Sell Value" : -1,
+        "Ingredients" : [
+            {
+                "Name" : "BasicComponent",
+                "Amount" : 2.0
+            },
+            {
+                "Name" : "UncommonComponent",
+                "Amount" : 4.0
+            },
+            {
+                "Name" : "BasicElectronics",
+                "Amount" : 2.0
+            },
+            {
+                "Name" : "UncommonElectronics",
+                "Amount" : 4.0
+            },
+            {
+                "Name" : "PolycalcitePlastic",
+                "Amount" : 7.0
+            }
+        ]
+    },
+    {
+        "Name" : "UncommonCoreSystemM",
+        "Amount" : 1,
+        "Sell Value" : -1,
+        "Ingredients" : [
+            {
+                "Name" : "BasicComponent",
+                "Amount" : 8.0
+            },
+            {
+                "Name" : "UncommonComponent",
+                "Amount" : 18.0
+            },
+            {
+                "Name" : "BasicElectronics",
+                "Amount" : 8.0
+            },
+            {
+                "Name" : "UncommonElectronics",
+                "Amount" : 18.0
+            },
+            {
+                "Name" : "PolycalcitePlastic",
+                "Amount" : 49.0
+            }
+        ]
+    },
+    {
+        "Name" : "UncommonCoreSystemL",
+        "Amount" : 1,
+        "Sell Value" : -1,
+        "Ingredients" : [
+            {
+                "Name" : "BasicComponent",
+                "Amount" : 38.0
+            },
+            {
+                "Name" : "UncommonComponent",
+                "Amount" : 88.0
+            },
+            {
+                "Name" : "BasicElectronics",
+                "Amount" : 38.0
+            },
+            {
+                "Name" : "UncommonElectronics",
+                "Amount" : 88.0
+            },
+            {
+                "Name" : "PolycalcitePlastic",
+                "Amount" : 343.0
+            }
+        ]
+    },
+    {
+        "Name" : "UncommonElectricEngineXL",
+        "Amount" : 1,
+        "Sell Value" : -1,
+        "Ingredients" : [
+            {
+                "Name" : "BasicScrew",
+                "Amount" : 188.0
+            },
+            {
+                "Name" : "UncommonScrew",
+                "Amount" : 438.0
+            },
+            {
+                "Name" : "BasicMagnet",
+                "Amount" : 188.0
+            },
+            {
+                "Name" : "UncommonMagnet",
+                "Amount" : 438.0
+            },
+            {
+                "Name" : "Duralumin",
+                "Amount" : 2401.0
+            }
+        ]
+    },
+    {
+        "Name" : "UncommonIonicChamberXS",
+        "Amount" : 1,
+        "Sell Value" : -1,
+        "Ingredients" : [
+            {
+                "Name" : "BasicConnector",
+                "Amount" : 1.0
+            },
+            {
+                "Name" : "UncommonConnector",
+                "Amount" : 1.0
+            },
+            {
+                "Name" : "BasicMagnet",
+                "Amount" : 1.0
+            },
+            {
+                "Name" : "UncommonMagnet",
+                "Amount" : 1.0
+            },
+            {
+                "Name" : "StainlessSteel",
+                "Amount" : 1.0
+            }
+        ]
+    },
+    {
+        "Name" : "UncommonIonicChamberS",
+        "Amount" : 1,
+        "Sell Value" : -1,
+        "Ingredients" : [
+            {
+                "Name" : "BasicConnector",
+                "Amount" : 2.0
+            },
+            {
+                "Name" : "UncommonConnector",
+                "Amount" : 4.0
+            },
+            {
+                "Name" : "BasicMagnet",
+                "Amount" : 2.0
+            },
+            {
+                "Name" : "UncommonMagnet",
+                "Amount" : 4.0
+            },
+            {
+                "Name" : "StainlessSteel",
+                "Amount" : 7.0
+            }
+        ]
+    },
+    {
+        "Name" : "UncommonIonicChamberM",
+        "Amount" : 1,
+        "Sell Value" : -1,
+        "Ingredients" : [
+            {
+                "Name" : "BasicConnector",
+                "Amount" : 8.0
+            },
+            {
+                "Name" : "UncommonConnector",
+                "Amount" : 18.0
+            },
+            {
+                "Name" : "BasicMagnet",
+                "Amount" : 8.0
+            },
+            {
+                "Name" : "UncommonMagnet",
+                "Amount" : 18.0
+            },
+            {
+                "Name" : "StainlessSteel",
+                "Amount" : 49.0
+            }
+        ]
+    },
+    {
+        "Name" : "UncommonIonicChamberL",
+        "Amount" : 1,
+        "Sell Value" : -1,
+        "Ingredients" : [
+            {
+                "Name" : "BasicConnector",
+                "Amount" : 38.0
+            },
+            {
+                "Name" : "UncommonConnector",
+                "Amount" : 88.0
+            },
+            {
+                "Name" : "BasicMagnet",
+                "Amount" : 38.0
+            },
+            {
+                "Name" : "UncommonMagnet",
+                "Amount" : 88.0
+            },
+            {
+                "Name" : "StainlessSteel",
+                "Amount" : 343.0
+            }
+        ]
+    },
+    {
+        "Name" : "UncommonIonicChamberXL",
+        "Amount" : 1,
+        "Sell Value" : -1,
+        "Ingredients" : [
+            {
+                "Name" : "BasicConnector",
+                "Amount" : 188.0
+            },
+            {
+                "Name" : "UncommonConnector",
+                "Amount" : 438.0
+            },
+            {
+                "Name" : "BasicMagnet",
+                "Amount" : 188.0
+            },
+            {
+                "Name" : "UncommonMagnet",
+                "Amount" : 438.0
+            },
+            {
+                "Name" : "StainlessSteel",
+                "Amount" : 2401.0
+            }
+        ]
+    },
+    {
+        "Name" : "UncommonLaserChamberXS",
+        "Amount" : 1,
+        "Sell Value" : -1,
+        "Ingredients" : [
+            {
+                "Name" : "BasicLED",
+                "Amount" : 1.0
+            },
+            {
+                "Name" : "UncommonLED",
+                "Amount" : 1.0
+            },
+            {
+                "Name" : "BasicOptics",
+                "Amount" : 1.0
+            },
+            {
+                "Name" : "UncommonOptics",
+                "Amount" : 1.0
+            },
+            {
+                "Name" : "AdvancedGlass",
+                "Amount" : 1.0
+            }
+        ]
+    },
+    {
+        "Name" : "UncommonLightXS",
+        "Amount" : 1,
+        "Sell Value" : -1,
+        "Ingredients" : [
+            {
+                "Name" : "BasicLED",
+                "Amount" : 1.0
+            },
+            {
+                "Name" : "UncommonLED",
+                "Amount" : 1.0
+            },
+            {
+                "Name" : "BasicElectronics",
+                "Amount" : 1.0
+            },
+            {
+                "Name" : "UncommonElectronics",
+                "Amount" : 1.0
+            },
+            {
+                "Name" : "AdvancedGlass",
+                "Amount" : 1.0
+            }
+        ]
+    },
+    {
+        "Name" : "UncommonLightS",
+        "Amount" : 1,
+        "Sell Value" : -1,
+        "Ingredients" : [
+            {
+                "Name" : "BasicLED",
+                "Amount" : 2.0
+            },
+            {
+                "Name" : "UncommonLED",
+                "Amount" : 4.0
+            },
+            {
+                "Name" : "BasicElectronics",
+                "Amount" : 2.0
+            },
+            {
+                "Name" : "UncommonElectronics",
+                "Amount" : 4.0
+            },
+            {
+                "Name" : "AdvancedGlass",
+                "Amount" : 7.0
+            }
+        ]
+    },
+    {
+        "Name" : "UncommonMobilePanelXS",
+        "Amount" : 1,
+        "Sell Value" : -1,
+        "Ingredients" : [
+            {
+                "Name" : "BasicScrew",
+                "Amount" : 1.0
+            },
+            {
+                "Name" : "UncommonScrew",
+                "Amount" : 1.0
+            },
+            {
+                "Name" : "BasicHydraulics",
+                "Amount" : 1.0
+            },
+            {
+                "Name" : "UncommonHydraulics",
+                "Amount" : 1.0
+            },
+            {
+                "Name" : "Duralumin",
+                "Amount" : 1.0
+            }
+        ]
+    },
+    {
+        "Name" : "UncommonMobilePanelS",
+        "Amount" : 1,
+        "Sell Value" : -1,
+        "Ingredients" : [
+            {
+                "Name" : "BasicScrew",
+                "Amount" : 2.0
+            },
+            {
+                "Name" : "UncommonScrew",
+                "Amount" : 4.0
+            },
+            {
+                "Name" : "BasicHydraulics",
+                "Amount" : 2.0
+            },
+            {
+                "Name" : "UncommonHydraulics",
+                "Amount" : 4.0
+            },
+            {
+                "Name" : "Duralumin",
+                "Amount" : 7.0
+            }
+        ]
+    },
+    {
+        "Name" : "UncommonMobilePanelM",
+        "Amount" : 1,
+        "Sell Value" : -1,
+        "Ingredients" : [
+            {
+                "Name" : "BasicScrew",
+                "Amount" : 8.0
+            },
+            {
+                "Name" : "UncommonScrew",
+                "Amount" : 18.0
+            },
+            {
+                "Name" : "BasicHydraulics",
+                "Amount" : 8.0
+            },
+            {
+                "Name" : "UncommonHydraulics",
+                "Amount" : 18.0
+            },
+            {
+                "Name" : "Duralumin",
+                "Amount" : 49.0
+            }
+        ]
+    },
+    {
+        "Name" : "UncommonMobilePanelL",
+        "Amount" : 1,
+        "Sell Value" : -1,
+        "Ingredients" : [
+            {
+                "Name" : "BasicScrew",
+                "Amount" : 38.0
+            },
+            {
+                "Name" : "UncommonScrew",
+                "Amount" : 88.0
+            },
+            {
+                "Name" : "BasicHydraulics",
+                "Amount" : 38.0
+            },
+            {
+                "Name" : "UncommonHydraulics",
+                "Amount" : 88.0
+            },
+            {
+                "Name" : "Duralumin",
+                "Amount" : 343.0
+            }
+        ]
+    },
+    {
+        "Name" : "UncommonMobilePanelXL",
+        "Amount" : 1,
+        "Sell Value" : -1,
+        "Ingredients" : [
+            {
+                "Name" : "BasicScrew",
+                "Amount" : 188.0
+            },
+            {
+                "Name" : "UncommonScrew",
+                "Amount" : 438.0
+            },
+            {
+                "Name" : "BasicHydraulics",
+                "Amount" : 188.0
+            },
+            {
+                "Name" : "UncommonHydraulics",
+                "Amount" : 438.0
+            },
+            {
+                "Name" : "Duralumin",
+                "Amount" : 2401.0
+            }
+        ]
+    },
+    {
+        "Name" : "UncommonOreScannerXL",
+        "Amount" : 1,
+        "Sell Value" : -1,
+        "Ingredients" : [
+            {
+                "Name" : "BasicConnector",
+                "Amount" : 188.0
+            },
+            {
+                "Name" : "UncommonElectronics",
+                "Amount" : 438.0
+            },
+            {
+                "Name" : "BasicElectronics",
+                "Amount" : 188.0
+            },
+            {
+                "Name" : "UncommonElectronics",
+                "Amount" : 438.0
+            },
+            {
+                "Name" : "PolycalcitePlastic",
+                "Amount" : 2401.0
+            }
+        ]
+    },
+    {
+        "Name" : "UncommonPowerTransformerS",
+        "Amount" : 1,
+        "Sell Value" : -1,
+        "Ingredients" : [
+            {
+                "Name" : "BasicComponent",
+                "Amount" : 2.0
+            },
+            {
+                "Name" : "UncommonComponent",
+                "Amount" : 4.0
+            },
+            {
+                "Name" : "BasicMagnet",
+                "Amount" : 2.0
+            },
+            {
+                "Name" : "UncommonMagnet",
+                "Amount" : 4.0
+            },
+            {
+                "Name" : "StainlessSteel",
+                "Amount" : 7.0
+            }
+        ]
+    },
+    {
+        "Name" : "UncommonPowerTransformerM",
+        "Amount" : 1,
+        "Sell Value" : -1,
+        "Ingredients" : [
+            {
+                "Name" : "BasicComponent",
+                "Amount" : 8.0
+            },
+            {
+                "Name" : "UncommonComponent",
+                "Amount" : 18.0
+            },
+            {
+                "Name" : "BasicMagnet",
+                "Amount" : 8.0
+            },
+            {
+                "Name" : "UncommonMagnet",
+                "Amount" : 18.0
+            },
+            {
+                "Name" : "StainlessSteel",
+                "Amount" : 49.0
+            }
+        ]
+    },
+    {
+        "Name" : "UncommonRoboticArmM",
+        "Amount" : 1,
+        "Sell Value" : -1,
+        "Ingredients" : [
+            {
+                "Name" : "BasicComponent",
+                "Amount" : 8.0
+            },
+            {
+                "Name" : "UncommonComponent",
+                "Amount" : 18.0
+            },
+            {
+                "Name" : "BasicHydraulics",
+                "Amount" : 8.0
+            },
+            {
+                "Name" : "UncommonHydraulics",
+                "Amount" : 18.0
+            },
+            {
+                "Name" : "Duralumin",
+                "Amount" : 49.0
+            }
+        ]
+    },
+    {
+        "Name" : "UncommonScreenXS",
+        "Amount" : 1,
+        "Sell Value" : -1,
+        "Ingredients" : [
+            {
+                "Name" : "BasicLED",
+                "Amount" : 1.0
+            },
+            {
+                "Name" : "UncommonLED",
+                "Amount" : 1.0
+            },
+            {
+                "Name" : "BasicElectronics",
+                "Amount" : 1.0
+            },
+            {
+                "Name" : "UncommonElectronics",
+                "Amount" : 1.0
+            },
+            {
+                "Name" : "PolycalcitePlastic",
+                "Amount" : 1.0
+            }
+        ]
+    },
+    {
+        "Name" : "UncommonScreenL",
+        "Amount" : 1,
+        "Sell Value" : -1,
+        "Ingredients" : [
+            {
+                "Name" : "BasicLED",
+                "Amount" : 38.0
+            },
+            {
+                "Name" : "UncommonLED",
+                "Amount" : 88.0
+            },
+            {
+                "Name" : "BasicElectronics",
+                "Amount" : 38.0
+            },
+            {
+                "Name" : "UncommonElectronics",
+                "Amount" : 88.0
+            },
+            {
+                "Name" : "PolycalcitePlastic",
+                "Amount" : 343.0
+            }
+        ]
+    },
+    {
+        "Name" : "UncommonScreenXS",
+        "Amount" : 1,
+        "Sell Value" : -1,
+        "Ingredients" : [
+            {
+                "Name" : "BasicLED",
+                "Amount" : 188.0
+            },
+            {
+                "Name" : "UncommonLED",
+                "Amount" : 438.0
+            },
+            {
+                "Name" : "BasicElectronics",
+                "Amount" : 188.0
+            },
+            {
+                "Name" : "UncommonElectronics",
+                "Amount" : 438.0
+            },
+            {
+                "Name" : "PolycalcitePlastic",
+                "Amount" : 2401.0
+            }
         ]
     },
     {
