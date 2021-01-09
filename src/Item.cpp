@@ -2,11 +2,11 @@
 
 #include <iostream>
 
-double Item::GetCraftValue(const CraftSkills& skills)
+double Item::GetCraftValue(const CraftSkills& skills, ProductionData& data)
 {
 	if (craftValue == -1)
 	{
-		craftValue = craft.ComputeCraftValue(skills);
+		craftValue = craft.ComputeCraftValue(skills, data);
 		if (craftValue == -1)
 			craftValue = sellValue;
 	}

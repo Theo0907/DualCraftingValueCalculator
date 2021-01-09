@@ -24,7 +24,8 @@ int main()
 		if (message.compare(0, 7, "compute") == 0)
 		{
 			CraftSkills s;
-			auto p = h.GetPrice(message.substr(8), s);
+			ProductionData d;
+			auto p = h.GetPrice(message.substr(8), s, d);
 			if (p.first == -1)
 			{
 				if (p.second == -1)
@@ -40,6 +41,9 @@ int main()
 					std::cout << "Shop cost:\t" << p.second << std::endl;
 					std::cout << "Benefits:\t" << (p.second - p.first) << std::endl;
 				}
+				std::cout << "Total used items: " << std::endl;
+				for (auto& it : d.CraftedItems)
+					std::cout << "\t-" << it.first->GetName() << " : " << it.second << std::endl;
 			}
 		}
 		else if (message.compare(0, 4, "list") == 0)

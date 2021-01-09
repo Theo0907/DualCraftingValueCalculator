@@ -1,6 +1,7 @@
 #pragma once
 
 #include "Craft.h"
+#include "ProductionData.h"
 
 #include <string>
 
@@ -16,8 +17,12 @@ public:
 	Item(std::string n, double sellVal) : name {n}, sellValue {sellVal}
 	{}
 
-	double	GetCraftValue(const CraftSkills&);
-	double	GetSellValue();
+	double				GetCraftValue(const CraftSkills&, ProductionData& data);
+	double				GetSellValue();
+	const std::string&	GetName() const 
+	{
+		return name;
+	}
 
 	void	SetCraft(const Craft& c)
 	{

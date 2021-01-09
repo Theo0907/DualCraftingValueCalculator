@@ -158,6 +158,7 @@
     <ClInclude Include="include\CraftSkills.h" />
     <ClInclude Include="include\Item.h" />
     <ClInclude Include="include\ItemsHandler.h" />
+    <ClInclude Include="include\ProductionData.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

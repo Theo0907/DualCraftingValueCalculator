@@ -43,12 +43,12 @@ bool ItemsHandler::LoadJson()
 	return true;
 }
 
-std::pair<double, double> ItemsHandler::GetPrice(const std::string& itemName, const CraftSkills& skills)
+std::pair<double, double> ItemsHandler::GetPrice(const std::string& itemName, const CraftSkills& skills, ProductionData& data)
 {
 	auto it = items.find(itemName);
 	if (it == items.end())
 		return std::make_pair(-1, -1);
-	return std::make_pair(it->second->GetCraftValue(skills), it->second->GetSellValue());
+	return std::make_pair(it->second->GetCraftValue(skills, data), it->second->GetSellValue());
 }
 
 void ItemsHandler::List(std::string search)

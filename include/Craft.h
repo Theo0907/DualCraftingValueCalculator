@@ -2,6 +2,7 @@
 
 #include "CraftParams.h"
 #include "CraftSkills.h"
+#include "ProductionData.h"
 
 #include <vector>
 
@@ -15,5 +16,5 @@ struct Craft
 	double									amount;
 	//Item*				result;
 
-	double	ComputeCraftValue(const CraftSkills&);
+	double	ComputeCraftValue(const CraftSkills&, ProductionData& data);
 };

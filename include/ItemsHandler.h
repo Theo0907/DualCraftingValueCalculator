@@ -13,7 +13,7 @@ public:
 
 	bool					LoadJson();
 
-	std::pair<double, double>	GetPrice(const std::string& itemName, const CraftSkills&);
+	std::pair<double, double>	GetPrice(const std::string& itemName, const CraftSkills&, ProductionData& data);
 	void						List(std::string search = "");
 };
 
