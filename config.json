@@ -3623,5 +3623,354 @@
 
             
         ]
+    },
+    {
+        "Name" : "Retro-rocketBrakeS",
+        "Amount" : 1.0,
+        "Sell Value" : 1000.0,
+        "Ingredients" : [
+            {
+                "Name" : "BasicScrew",
+                "Amount" : 1.0
+            },
+            {
+                "Name" : "BasicBurner",
+                "Amount" : 1.0
+            },
+            {
+                "Name" : "BasicIonicContainerXS",
+                "Amount" : 1.0
+            },
+            {
+                "Name" : "BasicStandardFrameXS",
+                "Amount" : 1.0
+            }
+            
+
+            
+        ]
+    },
+    {
+        "Name" : "Retro-rocketBrakeM",
+        "Amount" : 1.0,
+        "Sell Value" : 4300.0,
+        "Ingredients" : [
+            {
+                "Name" : "BasicScrew",
+                "Amount" : 6.0
+            },
+            {
+                "Name" : "BasicBurner",
+                "Amount" : 5.0
+            },
+            {
+                "Name" : "BasicIonicContainerS",
+                "Amount" : 1.0
+            },
+            {
+                "Name" : "BasicStandardFrameS",
+                "Amount" : 1.0
+            }
+        ]
+    },
+    {
+        "Name" : "Retro-rocketBrakeL",
+        "Amount" : 1.0,
+        "Sell Value" : 20000.0,
+        "Ingredients" : [
+            {
+                "Name" : "BasicScrew",
+                "Amount" : 36.0
+            },
+            {
+                "Name" : "BasicBurner",
+                "Amount" : 25.0
+            },
+            {
+                "Name" : "BasicIonicContainerM",
+                "Amount" : 1.0
+            },
+            {
+                "Name" : "BasicStandardFrameM",
+                "Amount" : 1.0
+            }
+        ]
+    },
+    {
+        "Name" : "StabilizerXS",
+        "Amount" : 1.0,
+        "Sell Value" : 1000.0,
+        "Ingredients" : [
+            {
+                "Name" : "BasicScrew",
+                "Amount" : 1.0
+            },
+            {
+                "Name" : "BasicHydraulics",
+                "Amount" : 1.0
+            },
+            {
+                "Name" : "BasicMobilePanelXS",
+                "Amount" : 1.0
+            },
+            {
+                "Name" : "BasicReinforcedFrameXS",
+                "Amount" : 1.0
+            }
+        ]
+    },
+    {
+        "Name" : "StabilizerS",
+        "Amount" : 1.0,
+        "Sell Value" : 4000.0,
+        "Ingredients" : [
+            {
+                "Name" : "BasicScrew",
+                "Amount" : 6.0
+            },
+            {
+                "Name" : "BasicHydraulics",
+                "Amount" : 5.0
+            },
+            {
+                "Name" : "BasicMobilePanelS",
+                "Amount" : 1.0
+            },
+            {
+                "Name" : "BasicReinforcedFrameS",
+                "Amount" : 1.0
+            }
+        ]
+    },
+    {
+        "Name" : "StabilizerM",
+        "Amount" : 1.0,
+        "Sell Value" : 17500.0,
+        "Ingredients" : [
+            {
+                "Name" : "BasicScrew",
+                "Amount" : 36.0
+            },
+            {
+                "Name" : "BasicHydraulics",
+                "Amount" : 25.0
+            },
+            {
+                "Name" : "BasicMobilePanelM",
+                "Amount" : 1.0
+            },
+            {
+                "Name" : "BasicReinforcedFrameM",
+                "Amount" : 1.0
+            }
+        ]
+    },
+    {
+        "Name" : "StabilizerL",
+        "Amount" : 1.0,
+        "Sell Value" : 96000.0,
+        "Ingredients" : [
+            {
+                "Name" : "BasicScrew",
+                "Amount" : 216.0
+            },
+            {
+                "Name" : "BasicHydraulics",
+                "Amount" : 125.0
+            },
+            {
+                "Name" : "BasicMobilePanelL",
+                "Amount" : 1.0
+            },
+            {
+                "Name" : "BasicReinforcedFrameL",
+                "Amount" : 1.0
+            }
+        ]
+    },
+    {
+        "Name" : "AtmoshericAirBrakeS",
+        "Amount" : 1.0,
+        "Sell Value" : 700.0,
+        "Ingredients" : [
+            {
+                "Name" : "BasicPipe",
+                "Amount" : 1.0
+            },
+            {
+                "Name" : "BasicHydraulics",
+                "Amount" : 1.0
+            },
+            {
+                "Name" : "BasicMobilePanelXS",
+                "Amount" : 1.0
+            },
+            {
+                "Name" : "BasicStandardFrameXS",
+                "Amount" : 1.0
+            }
+        ]
+    },
+    {
+        "Name" : "AtmoshericAirBrakeM",
+        "Amount" : 1.0,
+        "Sell Value" : 3500.0,
+        "Ingredients" : [
+            {
+                "Name" : "BasicPipe",
+                "Amount" : 6.0
+            },
+            {
+                "Name" : "BasicHydraulics",
+                "Amount" : 5.0
+            },
+            {
+                "Name" : "BasicMobilePanelS",
+                "Amount" : 1.0
+            },
+            {
+                "Name" : "BasicStandardFrameS",
+                "Amount" : 1.0
+            }
+        ]
+    },
+    {
+        "Name" : "AtmoshericAirBrakeL",
+        "Amount" : 1.0,
+        "Sell Value" : 18000.0,
+        "Ingredients" : [
+            {
+                "Name" : "BasicPipe",
+                "Amount" : 36.0
+            },
+            {
+                "Name" : "BasicHydraulics",
+                "Amount" : 25.0
+            },
+            {
+                "Name" : "BasicMobilePanelM",
+                "Amount" : 1.0
+            },
+            {
+                "Name" : "BasicStandardFrameM",
+                "Amount" : 1.0
+            }
+        ]
+    },
+    {
+        "Name" : "Gyroscope",
+        "Amount" : 1.0,
+        "Sell Value" : 1000.0,
+        "Ingredients" : [
+            {
+                "Name" : "BasicConnector",
+                "Amount" : 1.0
+            },
+            {
+                "Name" : "BasicMagnet",
+                "Amount" : 1.0
+            },
+            {
+                "Name" : "BasicMechanicalSensorXS",
+                "Amount" : 1.0
+            },
+            {
+                "Name" : "BasicCasingXS",
+                "Amount" : 1.0
+            }
+        ]
+    },
+    {
+        "Name" : "LandingGearXS",
+        "Amount" : 1.0,
+        "Sell Value" : 600.0,
+        "Ingredients" : [
+            {
+                "Name" : "BasicScrew",
+                "Amount" : 1.0
+            },
+            {
+                "Name" : "BasicHydraulics",
+                "Amount" : 1.0
+            },
+            {
+                "Name" : "BasicReinforcedFrameXS",
+                "Amount" : 1.0
+            }
+        ]
+    },
+    {
+        "Name" : "LandingGearS",
+        "Amount" : 1.0,
+        "Sell Value" : 13000.0,
+        "Ingredients" : [
+            {
+                "Name" : "BasicScrew",
+                "Amount" : 3.0
+            },
+            {
+                "Name" : "UncommonScrew",
+                "Amount" : 3.0
+            },
+            {
+                "Name" : "UncommonHydraulics",
+                "Amount" : 5.0
+            },
+            {
+                "Name" : "UncommonReinforcedFrameS",
+                "Amount" : 1.0
+            }
+        ]
+    },
+    {
+        "Name" : "LandingGearM",
+        "Amount" : 1.0,
+        "Sell Value" : 70000.0,
+        "Ingredients" : [
+            {
+                "Name" : "BasicScrew",
+                "Amount" : 18.0
+            },
+            {
+                "Name" : "UncommonScrew",
+                "Amount" : 18.0
+            },
+            {
+                "Name" : "UncommonHydraulics",
+                "Amount" : 25.0
+            },
+            {
+                "Name" : "UncommonReinforcedFrameM",
+                "Amount" : 1.0
+            }
+        ]
+    },
+    {
+        "Name" : "LandingGearL",
+        "Amount" : 1.0,
+        "Sell Value" : 400000.0,
+        "Ingredients" : [
+            {
+                "Name" : "BasicScrew",
+                "Amount" : 108.0
+            },
+            {
+                "Name" : "UncommonScrew",
+                "Amount" : 108.0
+            },
+            {
+                "Name" : "UncommonHydraulics",
+                "Amount" : 125.0
+            },
+            {
+                "Name" : "UncommonReinforcedFrameL",
+                "Amount" : 1.0
+            }
+        ]
     }
+
+
+    
+
+
 ]}
