@@ -3638,7 +3638,7 @@
                 "Amount" : 1.0
             },
             {
-                "Name" : "BasicIonicContainerXS",
+                "Name" : "BasicIonicChamberXS",
                 "Amount" : 1.0
             },
             {
@@ -3664,7 +3664,7 @@
                 "Amount" : 5.0
             },
             {
-                "Name" : "BasicIonicContainerS",
+                "Name" : "BasicIonicChamberS",
                 "Amount" : 1.0
             },
             {
@@ -3687,7 +3687,7 @@
                 "Amount" : 25.0
             },
             {
-                "Name" : "BasicIonicContainerM",
+                "Name" : "BasicIonicChamberM",
                 "Amount" : 1.0
             },
             {
