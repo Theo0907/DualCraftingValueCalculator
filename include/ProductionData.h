@@ -6,5 +6,5 @@ class Item;
 
 struct ProductionData
 {
-	std::unordered_map<Item*, int>	CraftedItems;
+	std::unordered_map<Item*, double>	CraftedItems;
 };

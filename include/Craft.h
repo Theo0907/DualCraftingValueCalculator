@@ -15,6 +15,7 @@ struct Craft
 	std::vector<std::pair<Item*, double>>	ingredients;
 	double									amount;
 	//Item*				result;
+	ProductionData							prodData;
 
-	double	ComputeCraftValue(const CraftSkills&, ProductionData& data);
+	double	ComputeCraftValue(const CraftSkills&);
 };
