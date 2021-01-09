@@ -69,7 +69,7 @@
     },
     {
         "Name" : "Al-FeAlloy",
-        "Amount" : 81.75,
+        "Amount" : 86.25,
         "Sell Value" : -1,
         "Ingredients" : [
             {
@@ -84,22 +84,22 @@
     },
     {
         "Name" : "Steel",
-        "Amount" : 81.75,
+        "Amount" : 86.25,
         "Sell Value" : -1,
         "Ingredients" : [
             {
                 "Name" : "PureIron",
-                "Amount" : 88
+                "Amount" : 85.0
             },
             {
                 "Name" : "PureCarbon",
-                "Amount" : 44
+                "Amount" : 42.5
             }
         ]
     },
     {
         "Name" : "Silumin",
-        "Amount" : 81.75,
+        "Amount" : 86.25,
         "Sell Value" : -1,
         "Ingredients" : [
             {
@@ -114,7 +114,7 @@
     },
     {
         "Name" : "Glass",
-        "Amount" : 81.75,
+        "Amount" : 86.25,
         "Sell Value" : -1,
         "Ingredients" : [
             {
@@ -125,12 +125,12 @@
     },
     {
         "Name" : "PolycarbonatePlastic",
-        "Amount" : 81.75,
+        "Amount" : 86.25,
         "Sell Value" : -1,
         "Ingredients" : [
             {
                 "Name" : "PureCarbon",
-                "Amount" : 88.0
+                "Amount" : 85.0
             }
         ]
     },
