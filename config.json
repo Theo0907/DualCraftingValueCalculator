@@ -3064,7 +3064,7 @@
     {
         "Name" : "WingXS",
         "Amount" : 1,
-        "Sell Value" : 230,
+        "Sell Value" : 630,
         "Ingredients" : [
             {
                 "Name" : "BasicScrew",
@@ -3087,7 +3087,7 @@
     {
         "Name" : "WingS",
         "Amount" : 1,
-        "Sell Value" : 230,
+        "Sell Value" : 3900,
         "Ingredients" : [
             {
                 "Name" : "BasicScrew",
@@ -3110,7 +3110,7 @@
     {
         "Name" : "WingM",
         "Amount" : 1,
-        "Sell Value" : 230,
+        "Sell Value" : 16400,
         "Ingredients" : [
             {
                 "Name" : "BasicScrew",
@@ -3133,7 +3133,7 @@
     {
         "Name" : "AileronXS",
         "Amount" : 1,
-        "Sell Value" : 230,
+        "Sell Value" : 1240,
         "Ingredients" : [
             {
                 "Name" : "BasicScrew",
@@ -3156,7 +3156,7 @@
     {
         "Name" : "AileronS",
         "Amount" : 1,
-        "Sell Value" : 230,
+        "Sell Value" : 7000,
         "Ingredients" : [
             {
                 "Name" : "BasicScrew",
@@ -3179,7 +3179,7 @@
     {
         "Name" : "AileronM",
         "Amount" : 1,
-        "Sell Value" : 230,
+        "Sell Value" : 34500,
         "Ingredients" : [
             {
                 "Name" : "BasicScrew",
@@ -3202,7 +3202,7 @@
     {
         "Name" : "CompactAileronXS",
         "Amount" : 1,
-        "Sell Value" : 230,
+        "Sell Value" : 1200,
         "Ingredients" : [
             {
                 "Name" : "BasicScrew",
@@ -3223,9 +3223,9 @@
         ]
     },
     {
-        "Name" : "AileronS",
+        "Name" : "CompactAileronS",
         "Amount" : 1,
-        "Sell Value" : 230,
+        "Sell Value" : 3000,
         "Ingredients" : [
             {
                 "Name" : "BasicScrew",
@@ -3246,9 +3246,9 @@
         ]
     },
     {
-        "Name" : "AileronM",
+        "Name" : "CompactAileronM",
         "Amount" : 1,
-        "Sell Value" : 230,
+        "Sell Value" : 1800,
         "Ingredients" : [
             {
                 "Name" : "BasicScrew",
@@ -3566,6 +3566,62 @@
                 "Name" : "BasicScrew",
                 "Amount" : 432
             }
+        ]
+    },
+    {
+        "Name" : "UncommonRefinerM",
+        "Amount" : 1.0,
+        "Sell Value" : 48500.0,
+        "Ingredients" : [
+            {
+                "Name" : "BasicPipe",
+                "Amount" : 18.0
+            },
+            {
+                "Name" : "UncommonPipe",
+                "Amount" : 18.0
+            },
+            {
+                "Name" : "UncommonPowerSystem",
+                "Amount" : 25.0
+            },
+            {
+                "Name" : "UncommonChemicalContainerM",
+                "Amount" : 1.0
+            },
+            {
+                "Name" : "UncommonReinforcedFrameM",
+                "Amount" : 1.0
+            }
+            
+
+            
+        ]
+    },
+    {
+        "Name" : "BasicRefinerM",
+        "Amount" : 1.0,
+        "Sell Value" : 15000.0,
+        "Ingredients" : [
+            {
+                "Name" : "BasicPipe",
+                "Amount" : 18.0
+            },
+            {
+                "Name" : "BasicPowerSystem",
+                "Amount" : 25.0
+            },
+            {
+                "Name" : "BasicChemicalContainerM",
+                "Amount" : 1.0
+            },
+            {
+                "Name" : "BasicReinforcedFrameM",
+                "Amount" : 1.0
+            }
+            
+
+            
         ]
     }
 ]}
