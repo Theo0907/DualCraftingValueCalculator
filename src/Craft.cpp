@@ -5,6 +5,7 @@ double Craft::ComputeCraftValue(const CraftSkills& skills)
 {
 	if (ingredients.size() == 0)
 		return -1;
+	prodData.CraftedItems.clear();
 	double result = 0;
 	for (unsigned i = 0; i < ingredients.size(); ++i)
 	{

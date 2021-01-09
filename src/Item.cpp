@@ -28,4 +28,5 @@ double Item::GetSellValue()
 void Item::DepreciateCraftValue()
 {
 	craftValue = -1;
+	craft.prodData.CraftedItems.clear();
 }
