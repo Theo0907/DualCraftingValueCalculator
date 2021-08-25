@@ -2,25 +2,25 @@
     {
         "Name" : "Hematite",
         "Amount" : 1,
-        "Sell Value" : 22.0,
+        "Sell Value" : 80.0,
         "Ingredients" : []
     },
     {
         "Name" : "Bauxite",
         "Amount" : 1,
-        "Sell Value" : 22.0,
+        "Sell Value" : 65.0,
         "Ingredients" : []
     },
     {
         "Name" : "Coal",
         "Amount" : 1,
-        "Sell Value" : 22.5,
+        "Sell Value" : 55.0,
         "Ingredients" : []
     },
     {
         "Name" : "Quartz",
         "Amount" : 1,
-        "Sell Value" : 20.0,
+        "Sell Value" : 32.0,
         "Ingredients" : []
     },
     {
@@ -1311,25 +1311,25 @@
     {
         "Name" : "Chromite",
         "Amount" : 1,
-        "Sell Value" : 68.0,
+        "Sell Value" : 215.0,
         "Ingredients" : []
     },
     {
         "Name" : "Limestone",
         "Amount" : 1,
-        "Sell Value" : 60.0,
+        "Sell Value" : 190.0,
         "Ingredients" : []
     },
     {
         "Name" : "Malachite",
         "Amount" : 1,
-        "Sell Value" : 60.0,
+        "Sell Value" : 200.0,
         "Ingredients" : []
     },
     {
         "Name" : "Natron",
         "Amount" : 1,
-        "Sell Value" : 59.0,
+        "Sell Value" : 180.0,
         "Ingredients" : []
     },
     {
