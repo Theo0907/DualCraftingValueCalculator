@@ -2,62 +2,62 @@
     {
         "Name" : "Bauxite",
         "Amount" : 1,
-        "Sell Value" : 22.0,
+        "Sell Value" : 65.0,
         "Ingredients" : []
     },
     {
         "Name" : "Coal",
         "Amount" : 1,
-        "Sell Value" : 22.5,
+        "Sell Value" : 55.0,
         "Ingredients" : []
     },
     {
         "Name" : "Quartz",
         "Amount" : 1,
-        "Sell Value" : 20.0,
+        "Sell Value" : 32.0,
         "Ingredients" : []
     },
     {
         "Name" : "PureIron",
-        "Amount" : 465.75,
+        "Amount" : 517.50,
         "Sell Value" : -1,
         "Ingredients" : [
             {
                 "Name" : "Hematite",
-                "Amount" : 497.25
+                "Amount" : 552.50
             }
         ]
     },
     {
         "Name" : "PureAluminium",
-        "Amount" : 465.75,
+        "Amount" : 517.50,
         "Sell Value" : -1,
         "Ingredients" : [
             {
                 "Name" : "Bauxite",
-                "Amount" : 497.25
+                "Amount" : 552.50
             }
         ]
     },
     {
         "Name" : "PureCarbon",
-        "Amount" : 465.75,
+        "Amount" : 517.50,
         "Sell Value" : -1,
         "Ingredients" : [
             {
                 "Name" : "Coal",
-                "Amount" : 497.25
+                "Amount" : 552.50
             }
         ]
     },
     {
         "Name" : "PureSilicon",
-        "Amount" : 465.75,
+        "Amount" : 517.50,
         "Sell Value" : -1,
         "Ingredients" : [
             {
                 "Name" : "Quartz",
-                "Amount" : 497.25
+                "Amount" : 552.50
             }
         ]
     },
@@ -1305,25 +1305,25 @@
     {
         "Name" : "Chromite",
         "Amount" : 1,
-        "Sell Value" : 68.0,
+        "Sell Value" : 215.0,
         "Ingredients" : []
     },
     {
         "Name" : "Limestone",
         "Amount" : 1,
-        "Sell Value" : 60.0,
+        "Sell Value" : 190.0,
         "Ingredients" : []
     },
     {
         "Name" : "Malachite",
         "Amount" : 1,
-        "Sell Value" : 60.0,
+        "Sell Value" : 200.0,
         "Ingredients" : []
     },
     {
         "Name" : "Natron",
         "Amount" : 1,
-        "Sell Value" : 59.0,
+        "Sell Value" : 180.0,
         "Ingredients" : []
     },
     {
@@ -3959,6 +3959,158 @@
             {
                 "Name" : "UncommonReinforcedFrameL",
                 "Amount" : 1.0
+            }
+        ]
+    },
+    {
+        "Name" : "Petalite",
+        "Amount" : 1,
+        "Sell Value" : 600,
+        "Ingredients" : []
+    },
+    {
+        "Name" : "Garnierite",
+        "Amount" : 1,
+        "Sell Value" : 190.0,
+        "Ingredients" : []
+    },
+    {
+        "Name" : "Acanthite",
+        "Amount" : 1,
+        "Sell Value" : 200.0,
+        "Ingredients" : []
+    },
+    {
+        "Name" : "Pyrite",
+        "Amount" : 1,
+        "Sell Value" : 180.0,
+        "Ingredients" : []
+    },
+    {
+        "Name" : "PureLithium",
+        "Amount" : 49.05,
+        "Sell Value" : -1,
+        "Ingredients" : [
+            {
+                "Name" : "Petalite",
+                "Amount" : 59.15
+            }
+        ]
+    },
+    {
+        "Name" : "PureNickel",
+        "Amount" : 49.05,
+        "Sell Value" : -1,
+        "Ingredients" : [
+            {
+                "Name" : "Garnierite",
+                "Amount" : 59.15
+            }
+        ]
+    },
+    {
+        "Name" : "PureSilver",
+        "Amount" : 49.05,
+        "Sell Value" : -1,
+        "Ingredients" : [
+            {
+                "Name" : "Acanthite",
+                "Amount" : 59.15
+            }
+        ]
+    },
+    {
+        "Name" : "PureSulfur",
+        "Amount" : 49.05,
+        "Sell Value" : -1,
+        "Ingredients" : [
+            {
+                "Name" : "Pyrite",
+                "Amount" : 59.15
+            }
+        ]
+    },
+    {
+        "Name" : "Cu-AgAlloy",
+        "Amount" : 75.0,
+        "Sell Value" : -1,
+        "Ingredients" : [
+            {
+                "Name" : "PureSilver",
+                "Amount" : 91.0
+            },
+            {
+                "Name" : "PureCopper",
+                "Amount" : 45.5
+            }
+        ]
+    },
+    {
+        "Name" : "Inconel",
+        "Amount" : 81.75,
+        "Sell Value" : -1,
+        "Ingredients" : [
+            {
+                "Name" : "PureNickel",
+                "Amount" : 91.0
+            },
+            {
+                "Name" : "PureChromium",
+                "Amount" : 45.5
+            },
+            {
+                "Name" : "PureIron",
+                "Amount" : 45.5
+            }
+
+        ]
+    },
+    {
+        "Name" : "Al-LiAlloy",
+        "Amount" : 81.75,
+        "Sell Value" : -1,
+        "Ingredients" : [
+            {
+                "Name" : "PureLithium",
+                "Amount" : 91.0
+            },
+            {
+                "Name" : "PureAluminium",
+                "Amount" : 45.5
+            }
+        ]
+    },
+    {
+        "Name" : "Ag-LiReinforcedGlass",
+        "Amount" : 81.75,
+        "Sell Value" : -1,
+        "Ingredients" : [
+            {
+                "Name" : "PureSilver",
+                "Amount" : 91.0
+            },
+            {
+                "Name" : "PureLithium",
+                "Amount" : 45.5
+            },
+            {
+                "Name" :"PureSilicon",
+                "Amount" : 45.5
+            }
+        ]
+    },
+    {
+        "Name" : "PolysulfidePlasticProduct",
+        "Amount" : 81.75,
+        "Sell Value" : -1,
+        "Ingredients" : [
+            {
+                "Name" : "PureSulfur",
+                "Amount" : 91.0
+            },
+            {
+                "Name" : "PureCarbon",
+                "Amount" : 45.5
             }
         ]
     }
