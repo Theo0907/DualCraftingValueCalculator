@@ -4,6 +4,7 @@
 
 #include <fstream>
 #include <iostream>
+#include <filesystem>
 
 ItemsHandler::~ItemsHandler()
 {
@@ -11,16 +12,29 @@ ItemsHandler::~ItemsHandler()
 		delete it.second;
 }
 
-bool ItemsHandler::LoadJson()
+bool ItemsHandler::LoadConfig()
 {
-	std::ifstream i("config.json");
+	for (auto& it : std::filesystem::recursive_directory_iterator("config"))
+	{
+		if (it.is_regular_file() && it.path().extension() == ".json")
+		{
+			if (!LoadJson(it.path()))
+				return false;
+		}
+	}
+	return true;
+}
+
+bool ItemsHandler::LoadJson(const std::filesystem::path& config)
+{
+	std::ifstream i(config);
 	if (!i.is_open())
-		return false;
+		return true;
 
 	nlohmann::json j;
 	i >> j;
 	if (j.is_null() || j.find("items") == j.end() || !j["items"].is_array())
-		return false;
+		return true;
 
 	for (nlohmann::json& value : j["items"])
 	{
@@ -32,7 +46,7 @@ bool ItemsHandler::LoadJson()
 			auto it = items.find(ingredient["Name"]);
 			if (it == items.end())
 			{
-				std::cout << "Could not find item " << ingredient["Name"] << " in current dictionnary. (Adding item " << value["Name"] << ")" << std::endl;
+				std::cout << "Could not find item " << ingredient["Name"] << " in current dictionnary. (Adding item " << value["Name"] << ". Maybe load order is wrong?)" << std::endl;
 				continue;
 			}
 			item.craft.ingredients.emplace_back(it->second, ingredient["Amount"]);

@@ -3,6 +3,7 @@
 #include "Item.h"
 
 #include <unordered_map>
+#include <filesystem>
 
 class ItemsHandler
 {
@@ -10,8 +11,8 @@ class ItemsHandler
 
 public:
 	~ItemsHandler();
-
-	bool					LoadJson();
+	bool					LoadConfig();
+	bool					LoadJson(const std::filesystem::path& file);
 
 	std::pair<double, double>	GetPrice(const std::string& itemName, const CraftSkills&, ProductionData& data);
 	void						List(std::string search = "");

@@ -9,7 +9,7 @@
 int main()
 {
 	ItemsHandler h;
-	if (!h.LoadJson())
+	if (!h.LoadConfig())
 	{
 		std::cout << "Failed to load" << std::endl;
 		return -1;
